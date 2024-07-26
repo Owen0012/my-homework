@@ -1,13 +1,12 @@
-body{
-    background-color: cadetblue;
-}
 img{
-    width: 1450px;
+    width: 1440px;
 }
-#drake{
-    font-size: 30px;
+#head{
     text-align: center;
     text-decoration: underline;
+}
+body{
+    background-color: navajowhite;
 }
 p{
     font-size: 30px;

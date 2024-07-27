@@ -1,9 +1,12 @@
 body{
-    background-color: beige;
+    background-color: tomato;
 }
 p{
     font-size: 30px;
 }
 img{
     width: 1450px;
+}
+#food{
+    text-decoration: underline;
 }

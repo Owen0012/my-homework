@@ -1,0 +1,13 @@
+body{
+    background-color: darkgrey;
+}
+#head{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 1450px;
+}
+p{
+    font-size: 30px;
+}
